@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishitha2829
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning B.tech 1st year AI&DS
+- 🌱 I’m currently learning B.tech 2nd year AI&DS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
